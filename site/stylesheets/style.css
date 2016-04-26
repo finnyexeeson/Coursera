@@ -25,11 +25,7 @@ h2{
 .content {
 	background-color: grey;
 	border: 2px black solid;
-	width: 90%;
-	margin-right:auto;
-	margin-left:auto;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin:10px;
 }
 
 p{
