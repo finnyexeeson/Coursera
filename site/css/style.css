@@ -32,9 +32,6 @@
 	background:#ddd;
 }
 
-body { 
-	padding-top: 70px; 
-}
 
 p {
 text-indent: 50px;
@@ -58,12 +55,4 @@ p > a:hover{
 }
 
 @media (max-width: 767px){
-#header-nav
-    {
-    position: relative;
-    top: auto;
-    }
-body{
-	padding-top: 0px; 
-    }
 }
